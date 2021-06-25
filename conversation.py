@@ -1,3 +1,11 @@
+# Fun little program just playing around with inputs
+# Dog names must be kayce, scout and zero...all lowercase
+# There is no "try except" function(?), if you screw up the name its over
+# Try your dogs name for fun!
+
+
+
+
 # dogs
 
 kayce = 'kayce'
